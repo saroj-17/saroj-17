@@ -14,7 +14,7 @@
 
 
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/sarojbhandari17/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.0/icons/linkedin.svg"
          alt="Saroj Bhandari's LinkedIn Profile" width="20" height="20">
