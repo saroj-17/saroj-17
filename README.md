@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm Saroj Bhandari 👋</h1>
 
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="Saroj Bhandari" width="200" height="200">
+  <img src="https://media.licdn.com/dms/image/D4D03AQFpFksIXOx46w/profile-displayphoto-shrink_800_800/0/1706349921957?e=1715212800&v=beta&t=0HywKfTNATjwFlUuINxi8yrzczXVZ_mPGKfrG2ivyxM" alt="Saroj Bhandari" width="200" height="200">
 </p>
 
 <p align="center">
@@ -16,10 +16,10 @@
 </p>
 
 <p align="center">
-  <strong>🔭 Currently working on:</strong> [Pahadi Research LLC](https://www.linkedin.com/company/pahadi-net) <br>
+  <strong>🔭 Currently working on:</strong> <a href="https://www.linkedin.com/company/pahadi-net" target="_blank">Pahadi Research LLC</a><br>
   <strong>🌱 Currently learning:</strong> Machine Learning and Flutter <br>
   <strong>💬 Ask me about:</strong> Flutter, C#, Python, Machine Learning <br>
-  <strong>📫 How to reach me:</strong> [Saroj Bhandari](https://www.linkedin.com/in/sarojbhandari17/)
+  <strong>📫 How to reach me:</strong> <a href="https://www.linkedin.com/in/sarojbhandari17/" target="_blank">Saroj Bhandari</a>
 </p>
 
 ### Other Features:
