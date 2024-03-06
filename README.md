@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm Saroj Bhandari 👋</h1>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4D03AQFpFksIXOx46w/profile-displayphoto-shrink_800_800/0/1706349921957?e=1715212800&v=beta&t=0HywKfTNATjwFlUuINxi8yrzczXVZ_mPGKfrG2ivyxM" alt="Saroj Bhandari" width="200" height="200">
+  <img src="https://media.licdn.com/dms/image/D4D03AQFpFksIXOx46w/profile-displayphoto-shrink_800_800/0/1706349921957?e=1715212800&v=beta&t=0HywKfTNATjwFlUuINxi8yrzczXVZ_mPGKfrG2ivyxM" alt="Saroj Bhandari" width="100" height="100" style="border-radius: 50%;">
 </p>
 
 <p align="center">
